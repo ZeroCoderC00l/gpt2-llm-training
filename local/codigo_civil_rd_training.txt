@@ -1,0 +1,548 @@
+=== CÓDIGO CIVIL DE LA REPÚBLICA DOMINICANA ===
+=== TEXTO PARA ENTRENAMIENTO DE GPT-2 ===
+
+LIBRO PRIMERO: DE LAS PERSONAS
+
+TÍTULO PRELIMINAR: DISPOSICIONES GENERALES
+De la publicación, efectos y aplicación de las leyes en general
+
+Artículo 1. Las leyes, después de promulgadas por el Poder Ejecutivo, serán publicadas en la Gaceta Oficial. Podrán también ser publicadas en uno o más periódicos de amplia circulación en el territorio nacional, cuando así lo disponga la ley misma o el Poder Ejecutivo. En este caso, deberá indicarse de manera expresa que se trata de una publicación oficial, y surtirá los mismos efectos que la publicación en la Gaceta Oficial.
+
+Las leyes, salvo disposición legislativa expresa en otro sentido, se reputarán conocidas en el Distrito Nacional y en cada una de las Provincias, cuando hayan transcurrido los plazos siguientes, contados desde la fecha de la publicación hecha en conformidad con las disposiciones que anteceden, a saber: En el Distrito Nacional, el día siguiente al de la publicación. En todas las Provincias que componen el resto del territorio nacional, el segundo día.
+
+Artículo 2. La ley no dispone sino para el porvenir: no tiene efecto retroactivo.
+
+Artículo 3. Las leyes de policía y de seguridad obligan a todos los habitantes del territorio. Los bienes inmuebles, aunque sean poseídos por extranjeros, están regidos por la ley dominicana. Las leyes que se refieren al estado y capacidad de las personas, obligan a todos los dominicanos, aunque residan en país extranjero.
+
+Artículo 4. El juez que rehusare juzgar pretextando silencio, oscuridad o insuficiencia de la ley, podrá ser perseguido como culpable de denegación de justicia.
+
+Artículo 5. Se prohíbe a los jueces fallar por vía de disposición general y reglamentaria las causas sujetas a su decisión.
+
+Artículo 6. Las leyes que interesan al orden público y a las buenas costumbres no pueden ser derogadas por convenciones particulares.
+
+TÍTULO I: DEL GOCE Y PRIVACIÓN O PÉRDIDA DE LOS DERECHOS CIVILES
+
+CAPÍTULO I: DEL GOCE DE LOS DERECHOS CIVILES
+
+Artículo 7. El ejercicio de los derechos civiles es independiente de la cualidad de ciudadano, la cual no se adquiere ni se conserva sino conforme a la Constitución.
+
+Artículo 8. Todo dominicano disfrutará de los derechos civiles.
+
+Artículo 9. Son dominicanos: Primero, todas las personas que hayan nacido o nacieren en el territorio de la República, cualquiera que sea la nacionalidad de sus padres. Para los efectos de esta disposición no se considerarán como nacidos en el territorio de la República los hijos legítimos de los extranjeros que residan en ella en representación o servicio de su patria. Segundo, todos los hijos de las Repúblicas Hispano-Americanas, y los de las vecinas Antillas españolas que quieran gozar de esta cualidad, después de haber residido un año en el territorio de la República. Tercero, todos los naturalizados según las leyes. Cuarto, todos los extranjeros de cualquier nación amiga, siempre que fijen su domicilio en el territorio de la República, declaren querer gozar de esta cualidad, tengan dos años de residencia a lo menos, y renuncien expresamente su nacionalidad ante quien sea de derecho.
+
+Artículo 10. Los hijos de padres o madres dominicanos que hayan nacido en otro territorio, serán dominicanos, si vinieren y se domiciliaren en el país.
+
+Artículo 11. El extranjero disfrutará en la República de los mismos derechos civiles que los concedidos a los dominicanos por los tratados de la nación a la que el extranjero pertenezca.
+
+Artículo 12. La mujer extranjera que contrae matrimonio con un dominicano seguirá la condición de su marido, a menos que su ley nacional le permita conservar su nacionalidad, caso en el cual tendrá la facultad de declarar, en el acta de matrimonio, que declina la nacionalidad dominicana.
+
+Artículo 13. El extranjero, a quien el Gobierno hubiese concedido fijar en la República su domicilio, gozará de todos los derechos civiles mientras resida en el país.
+
+Artículo 14. El extranjero, aunque no resida en la República, podrá ser citado ante los tribunales de ella, para la ejecución de las obligaciones contraídas por él en la República y con un dominicano; podrá ser llevado a los tribunales en lo que se refiere a las obligaciones contraídas en país extranjero respecto de dominicanos.
+
+Artículo 15. Un dominicano podrá ser citado ante un tribunal de la República, por causa de obligaciones por él mismo contraídas en país extranjero y aun con extranjeros.
+
+Artículo 16. En todas las materias y todas las jurisdicciones, el extranjero transeúnte que sea demandante principal o interviniente voluntario estará obligado a dar fianza para el pago de las costas y de los daños y perjuicios resultantes de la litis, a menos que posea en la República inmuebles de un valor suficiente para asegurar ese pago.
+
+CAPÍTULO II: DE LA PÉRDIDA DE LOS DERECHOS CIVILES
+
+Artículo 17. Los derechos de ciudadano se pierden: Primero, por servir, o comprometerse a servir contra la República. Segundo, por haber sido condenado a pena aflictiva o infamante. Tercero, por admitir en territorio dominicano empleo de un gobierno extranjero, sin consentimiento del Congreso Nacional. Cuarto, por quiebra comercial fraudulenta.
+
+Artículo 18. Pueden obtener rehabilitación en estos derechos, aquellos dominicanos que no los hayan perdido por la causa determinada en el primer inciso del artículo precedente.
+
+Artículo 19. La mujer dominicana que celebre matrimonio con un extranjero y que desee adquirir la nacionalidad de su marido, siempre que la ley del país de éste lo permita, declarará expresamente su voluntad, consignándola en el acta de matrimonio. Si desea adquirir la nacionalidad de su marido después de haber celebrado el matrimonio deberá hacerlo mediante naturalización.
+
+TÍTULO II: DE LOS ACTOS DEL ESTADO CIVIL
+
+CAPÍTULO I: DISPOSICIONES GENERALES
+
+Artículo 34. Los actos del estado civil se inscribirán en los registros destinados a ese fin, y expresarán la hora, el día y el año en que se reciban, como también los nombres, apellidos, edad, profesión, nacionalidad y domicilio de las personas que en ellos figuren.
+
+Artículo 35. Los oficiales del estado civil no podrán insertar en sus actas, sea por vía de anotación o por cualquier otra indicación, sino aquello que deba ser declarado por los comparecientes.
+
+Artículo 36. En aquellos casos en que las partes no estén obligadas a comparecer personalmente, podrán hacerse representar por un apoderado especial, haciéndose constar esta circunstancia en el acta.
+
+Artículo 37. Los testigos llamados a figurar en los actos del estado civil, deberán ser mayores de dieciocho años, parientes o no de las partes interesadas, y serán escogidos por éstas.
+
+Artículo 38. El oficial del estado civil dará lectura del acta redactada a las partes que comparezcan, a sus apoderados, y a los testigos; haciendo en ella expresa mención del cumplimiento de esta formalidad.
+
+Artículo 39. Dicha acta será firmada por el oficial del estado civil, por los comparecientes y los testigos, o se hará mención en ella de la causa que impida hacerlo a unos u otros.
+
+CAPÍTULO II: DE LAS ACTAS DE NACIMIENTO
+
+Artículo 55. Se hará una declaración de todo nacimiento que ocurra en la República Dominicana. La declaración de nacimiento se hará ante el Oficial del Estado Civil correspondiente del lugar en que se verifique el alumbramiento, dentro de cinco días después de éste, si allí hubiere Oficial del Estado Civil.
+
+Artículo 56. El nacimiento del niño será declarado por el padre, o a falta de éste, por los médicos, cirujanos, parteras, u otras personas que hubieren asistido al parto; y en el caso en que aquél hubiese ocurrido fuera del domicilio de la madre, la declaración se hará por la persona en cuya casa se hubiese verificado.
+
+Artículo 57. En el acta de nacimiento se expresarán la hora, el día y el lugar en que hubiese ocurrido, el sexo del niño, los nombres que se le den, los nombres y apellidos, profesión y domicilio del padre y de la madre, cuando sea legítimo; y, si fuere natural, el de la madre; y el del padre, si éste se presentase personalmente a reconocerlo.
+
+TÍTULO III: DEL DOMICILIO
+
+Artículo 102. El domicilio de todo dominicano, en cuanto al ejercicio de sus derechos civiles, es el del lugar de su principal establecimiento.
+
+Artículo 103. El cambio de domicilio se entenderá realizado por el hecho de tener una habitación real en otro lugar, unido a la intención de fijar en ella su principal establecimiento.
+
+Artículo 104. La prueba de la intención se deducirá de la declaración expresa hecha, lo mismo al Ayuntamiento del lugar que se abandone, que al del nuevo domicilio.
+
+Artículo 105. En defecto de declaración expresa, la prueba de intención se deducirá de las circunstancias.
+
+Artículo 106. El ciudadano que sea llamado a desempeñar un cargo público interino o revocable, conservará el domicilio que tuviere anteriormente, si no ha manifestado intención contraria.
+
+Artículo 107. La aceptación de funciones públicas en propiedad, lleva consigo la traslación inmediata del domicilio del funcionario al lugar donde deba ejercer sus funciones.
+
+Artículo 108. El domicilio de la mujer casada es el de su marido. El menor no emancipado tiene por domicilio el de sus padres o tutor; el mayor privado de sus derechos civiles, el de su tutor.
+
+TÍTULO V: DEL MATRIMONIO
+
+CAPÍTULO I: DE LAS CUALIDADES Y CONDICIONES NECESARIAS PARA PODER CONTRAER MATRIMONIO
+
+Artículo 144. El hombre, antes de los dieciocho años cumplidos, y la mujer antes de cumplir los quince años no pueden contraer matrimonio.
+
+Artículo 145. Sin embargo, el Gobierno puede, por motivos graves, conceder dispensas de edad.
+
+Artículo 146. No existe el matrimonio cuando no hay consentimiento.
+
+Artículo 147. No se puede contraer segundo matrimonio antes de la disolución del primero.
+
+Artículo 148. El hijo que no tenga veinticinco años cumplidos, y la hija que no haya cumplido los veintiuno, no pueden contraer matrimonio sin el consentimiento de sus padres.
+
+Artículo 161. En la línea directa el matrimonio está prohibido entre todos los ascendientes y descendientes legítimos o naturales y los afines en la misma línea.
+
+Artículo 162. En la línea colateral se prohíbe el matrimonio entre hermanos legítimos o naturales, y los afines del mismo grado.
+
+Artículo 163. También se prohíbe el matrimonio entre tío y sobrina o tía y sobrino.
+
+LIBRO SEGUNDO: DE LOS BIENES Y DE LAS DIFERENTES MODIFICACIONES DE LA PROPIEDAD
+
+TÍTULO I: DE LA DISTINCIÓN DE LOS BIENES
+
+CAPÍTULO I: DE LOS BIENES INMUEBLES
+
+Los bienes son muebles o inmuebles. Son bienes inmuebles por su naturaleza los fondos de tierra y los edificios. Son bienes muebles por su naturaleza los que pueden trasladarse de un lugar a otro, sea que se muevan por sí mismos, como los animales, sea que no puedan moverse sino por efecto de una fuerza exterior, como las cosas inanimadas.
+
+TÍTULO II: DE LA PROPIEDAD
+
+La propiedad es el derecho de gozar y disponer de las cosas de la manera más absoluta, con tal de que no se haga de ellas un uso prohibido por las leyes o por los reglamentos.
+
+LIBRO TERCERO: DE LOS DIFERENTES MODOS DE ADQUIRIR LA PROPIEDAD
+
+TÍTULO I: DE LAS SUCESIONES
+
+CAPÍTULO I: DE LA APERTURA DE LAS SUCESIONES
+
+Las sucesiones se abren por la muerte natural. En el momento de la muerte, los herederos legítimos, los herederos naturales y el cónyuge, se constituyen en posesión de pleno derecho de los bienes, derechos y acciones del difunto, bajo la obligación de satisfacer todas las cargas de la herencia.
+
+TÍTULO III: DE LOS CONTRATOS O DE LAS OBLIGACIONES CONVENCIONALES EN GENERAL
+
+CAPÍTULO I: DISPOSICIONES PRELIMINARES
+
+Artículo 1134. Las convenciones legalmente hechas tienen fuerza de ley para aquellos que las han hecho. No pueden revocarse sino por consentimiento mutuo o por las causas que la ley autoriza. Deben ejecutarse de buena fe.
+
+Artículo 1156. Las obligaciones se extinguen por el pago, por la novación, por la quita o perdón voluntario de la deuda, por la compensación y por la confusión.
+
+TÍTULO VI: DE LA VENTA
+
+Artículo 1582. La venta es una convención por la cual uno se obliga a entregar una cosa, y el otro a pagarla. Puede hacerse por documento público o privado.
+
+Artículo 1583. La venta es perfecta entre las partes, y la propiedad queda adquirida de derecho por el comprador con respecto al vendedor, en cuanto se haya convenido en la cosa y en el precio, aunque la cosa no haya sido todavía entregada ni pagado el precio.
+
+TÍTULO VIII: DEL CONTRATO DE LOCACIÓN Y CONDUCCIÓN
+
+CAPÍTULO I: DISPOSICIONES GENERALES
+
+La locación de cosas es un contrato por el cual una de las partes se obliga a hacer gozar a la otra de una cosa durante cierto tiempo y por un precio determinado que ésta se compromete a pagarle.
+
+CAPÍTULO II: DE LA LOCACIÓN DE LAS COSAS
+
+SECCIÓN 1A: DE LAS REGLAS COMUNES A LOS ARRENDAMIENTOS DE CASAS Y HACIENDAS RURALES
+
+El arrendador está obligado por la naturaleza del contrato, y sin necesidad de convención particular: primero, a entregar al arrendatario la cosa arrendada; segundo, a mantenerla en estado de servir para el uso para el que ha sido arrendada; tercero, a hacer gozar al arrendatario pacíficamente mientras dure el arrendamiento.
+
+El arrendador no puede, durante el arrendamiento, cambiar la forma de la cosa arrendada. El arrendatario está obligado a dos cosas principales: primero, a usar de la cosa arrendada como un buen padre de familia, y según el destino dado por el arrendamiento, o según el que se presume conforme a las circunstancias, a falta de convención; segundo, a pagar el precio del arrendamiento en los términos convenidos.
+
+TÍTULO IX: DEL CONTRATO DE SOCIEDAD
+
+CAPÍTULO I: DISPOSICIONES GENERALES
+
+La sociedad es un contrato por el cual dos o más personas convienen en poner alguna cosa en común, con el fin de partir el beneficio que pueda resultar.
+
+CAPÍTULO II: DE LAS DIVERSAS ESPECIES DE SOCIEDADES
+
+Toda sociedad debe tener un objeto lícito, y formarse para utilidad común de las partes. Cada asociado debe poner en ella algo, ya sea dinero o efectos, ya sea su industria.
+
+TÍTULO X: DEL PRÉSTAMO
+
+CAPÍTULO I: DEL PRÉSTAMO A USO O COMODATO
+
+El préstamo a uso o comodato es un contrato por el cual una de las partes entrega una cosa a la otra para que se sirva de ella, con el cargo de devolver la misma después de haberse servido de ella.
+
+CAPÍTULO II: DEL PRÉSTAMO DE CONSUMO O SIMPLE PRÉSTAMO
+
+El préstamo de consumo es un contrato por el cual una de las partes entrega a la otra cierta cantidad de cosas que se consumen por el uso, con el cargo de que ésta le devuelva otro tanto de la misma especie y calidad.
+
+TÍTULO XIII: DEL MANDATO
+
+CAPÍTULO I: DE LA NATURALEZA Y FORMA DEL MANDATO
+
+Artículo 1984. El mandato o procura es un acto por el cual una persona da a otra el poder de hacer alguna cosa para el mandante y en su nombre.
+
+Artículo 1985. El contrato no se forma sino por la aceptación del mandatario.
+
+Artículo 1986. La aceptación del mandato puede ser expresa o tácita; resulta aun de la ejecución que haya dado el mandatario.
+
+Artículo 1987. El mandato puede ser o hecho en escritura pública, o bajo firma privada, o verbal. La aceptación puede ser tácita y resultar de la ejecución.
+
+Artículo 1988. El mandato concebido en términos generales no comprende más que los actos de administración. Si se trata de enajenar o hipotecar, o de cualquier otro acto de propiedad, el mandato debe ser expreso.
+
+CAPÍTULO II: DE LAS OBLIGACIONES DEL MANDATARIO
+
+Artículo 1991. El mandatario está obligado a cumplir el mandato mientras dure, y responde de los daños y perjuicios que resulten de su falta de cumplimiento.
+
+Artículo 1992. El mandatario responde no sólo del dolo, sino también de las faltas que cometa en su gestión. Sin embargo, la responsabilidad relativa a las faltas se aplica con menos rigor al que es mandatario gratuito que al que recibe un salario.
+
+Artículo 1993. Toda cláusula por la cual el mandatario responda de caso fortuito es nula.
+
+TÍTULO XIV: DE LA FIANZA
+
+CAPÍTULO I: DE LA NATURALEZA Y EXTENSIÓN DE LA FIANZA
+
+Artículo 2011. El que se hace fiador de una obligación se compromete para con el acreedor a cumplir la obligación del deudor, si éste no la cumple.
+
+Artículo 2012. La fianza no puede existir sino sobre una obligación válida. Sin embargo, puede darse fianza por una obligación aunque ésta pueda anularse por una excepción puramente personal del obligado; por ejemplo, en el caso de la minoría de edad.
+
+Artículo 2013. La fianza no puede exceder de lo que se debe el deudor, ni contraerse bajo condiciones más onerosas. Puede contraerse por parte solamente de la deuda y bajo condiciones menos gravosas.
+
+TÍTULO XVIII: DE LOS PRIVILEGIOS E HIPOTECAS
+
+CAPÍTULO I: DISPOSICIONES GENERALES
+
+Artículo 2092. Todo el que se halla obligado personalmente está sujeto a cumplir su compromiso con todos sus bienes muebles e inmuebles, presentes y futuros.
+
+Artículo 2093. Los bienes del deudor son prenda común de sus acreedores, y su precio se distribuye entre ellos a prorrata, a menos que haya entre los acreedores causas legítimas de preferencia.
+
+Artículo 2094. Las causas legítimas de preferencia son los privilegios y las hipotecas.
+
+CAPÍTULO II: DE LOS PRIVILEGIOS
+
+El privilegio es un derecho que la calidad del crédito da a un acreedor de ser preferido a otros acreedores, aun a los hipotecarios. Entre los acreedores privilegiados, la preferencia se determina según las distintas cualidades de los privilegios.
+
+CAPÍTULO III: DE LAS HIPOTECAS
+
+La hipoteca es un derecho real sobre los bienes inmuebles afectos al cumplimiento de una obligación. La hipoteca por su naturaleza es indivisible, y subsiste en su totalidad sobre todos los bienes afectos, sobre cada uno y sobre cada parte de ellos. Los siguen en cualquier mano en que pasen.
+
+TÍTULO XX: DE LA PRESCRIPCIÓN
+
+CAPÍTULO I: DISPOSICIONES GENERALES
+
+Artículo 2219. La prescripción es un medio de adquirir o de liberarse por cierto lapso de tiempo, y bajo las condiciones determinadas por la ley.
+
+Artículo 2220. No puede renunciarse a la prescripción sino después de adquirida; toda renuncia anterior es nula.
+
+Artículo 2221. Los jueces no pueden suplir de oficio el medio de prescripción.
+
+Artículo 2222. Las personas que no pueden enajenar pueden invocar la prescripción adquirida.
+
+Artículo 2223. El que no puede prescribir puede, sin embargo, oponerla al que reclama contra él.
+
+Artículo 2224. Se puede prescribir el dominio, y los demás derechos reales mencionados en el artículo 543, del modo expresado en el Título de la distinción de los bienes.
+
+CAPÍTULO V: DEL TIEMPO QUE SE NECESITA PARA PRESCRIBIR
+
+SECCIÓN 1A: DISPOSICIONES GENERALES
+
+Artículo 2262. Todas las acciones tanto reales como personales se prescriben por treinta años, sin que el que alegue esta prescripción esté obligado a exhibir título alguno, ni se le pueda oponer la excepción proveniente de la mala fe.
+
+Artículo 2263. El que adquiere de buena fe y a título de una justa causa un inmueble, prescribe el dominio por diez años, si el verdadero propietario habita en la circunscripción del tribunal de apelación en cuyo territorio esté situado el inmueble, y por veinte años si se halla domiciliado fuera de dicha circunscripción.
+
+SECCIÓN 4A: DE ALGUNAS PRESCRIPCIONES PARTICULARES
+
+Artículo 2271. Las acciones de los mercaderes de por menor unos con otros y con otras personas, en razón de los objetos de su comercio, se prescriben por dos años.
+
+Artículo 2272. La acción de los médicos, cirujanos y boticarios por las visitas, operaciones y medicamentos; la de los procuradores por sus honorarios y el reembolso de sus gastos y anticipos, se prescriben por dos años desde que se prestaron los servicios.
+
+Artículo 2273. La acción de los maestros y profesores de ciencias y artes para el pago de las lecciones dadas mes por mes, y la de los maestros de pensiones y casas de huéspedes por el alojamiento y alimento que proporcionan por mes o por término más corto, se prescriben por un año.
+
+Artículo 2274. Las acciones de los mercaderes y tenderos de objetos de consumo diario, las de los trabajadores, obreros y jornaleros, y las de sus oficiales y dependientes, se prescriben por un año.
+
+=== SECCIÓN ADICIONAL: TÉRMINOS LEGALES IMPORTANTES ===
+
+DEFINICIONES Y CONCEPTOS CLAVE DEL CÓDIGO CIVIL DOMINICANO:
+
+Acreedor: Persona a quien se le debe algo, generalmente dinero, y que tiene el derecho de exigir el cumplimiento de la obligación.
+
+Deudor: Persona que está obligada a cumplir con una prestación, generalmente el pago de una suma de dinero, frente a un acreedor.
+
+Usufructo: Derecho real de usar y disfrutar de bienes ajenos con la obligación de conservar su forma y sustancia, a menos que el título de su constitución o la ley autoricen otra cosa.
+
+Servidumbre: Carga impuesta sobre un inmueble para uso de otro inmueble perteneciente a distinto dueño, o para utilidad pública o comunal.
+
+Nulidad: Ineficacia de un acto jurídico como consecuencia de carecer de las condiciones necesarias para su validez, sean ellas de fondo o de forma.
+
+Acto auténtico: Es aquel que ha sido autorizado con las solemnidades legales por un oficial público competente para actuar en el lugar en que el acto fue redactado.
+
+Capacidad jurídica: Aptitud legal de una persona para ser sujeto activo o pasivo de relaciones jurídicas determinadas.
+
+Cosa juzgada: Efecto que produce una sentencia judicial firme, que impide que el mismo asunto sea objeto de un nuevo proceso.
+
+Dominio: Derecho real en virtud del cual una cosa se encuentra sometida a la voluntad y a la acción de una persona.
+
+Emancipación: Acto por el cual los menores de edad quedan liberados de la patria potestad o de la tutela y adquieren capacidad de obrar.
+
+Hipoteca: Derecho real que grava bienes inmuebles sujetándolos a responder del cumplimiento de una obligación o del pago de una deuda.
+
+Legado: Disposición testamentaria por la cual el testador deja a una persona determinada una cosa o un derecho.
+
+Notario: Funcionario público autorizado para dar fe de los contratos y demás actos extrajudiciales conforme a las leyes.
+
+Patria potestad: Conjunto de derechos y deberes que corresponden a los padres sobre las personas y bienes de los hijos mientras sean menores de edad y no se hayan emancipado.
+
+Tutela: Institución destinada al cuidado y dirección de los menores de edad que no estén sujetos a la patria potestad.
+
+=== EJEMPLOS DE APLICACIÓN PRÁCTICA ===
+
+EJEMPLO 1 - CONTRATO DE ARRENDAMIENTO:
+Juan arrienda a María una casa en Santo Domingo por un período de un año, mediante contrato escrito. María debe pagar RD$15,000 mensuales. Según el Código Civil, Juan como arrendador está obligado a entregar la casa en buen estado y mantenerla así durante el arrendamiento. María como arrendataria debe usar la casa como buen padre de familia y pagar la renta en las fechas convenidas.
+
+EJEMPLO 2 - PRESCRIPCIÓN ADQUISITIVA:
+Pedro ocupa de buena fe una propiedad desde el año 2010, creyendo que es suya por un título válido. El verdadero propietario vive en la misma provincia. Según el artículo 2263, Pedro puede adquirir el dominio por prescripción después de diez años de posesión continua, es decir, en el año 2020.
+
+EJEMPLO 3 - FIANZA:
+Luis solicita un préstamo al banco por RD$500,000. El banco exige un fiador. Carlos se constituye fiador de Luis, obligándose a pagar la deuda si Luis no cumple. Según el Código Civil, Carlos responde subsidiariamente, es decir, el banco debe primero exigir el pago a Luis antes de recurrir a Carlos.
+
+EJEMPLO 4 - MANDATO:
+Ana otorga un poder especial a Roberto para que venda su apartamento en su nombre. Roberto, como mandatario, está obligado a actuar conforme a las instrucciones de Ana y responde de los daños si no cumple adecuadamente su mandato.
+
+EJEMPLO 5 - SOCIEDAD CIVIL:
+Tres profesionales deciden formar una sociedad para ejercer conjuntamente su profesión. Cada uno aporta capital y su trabajo. Los beneficios se reparten según lo acordado. La sociedad debe tener objeto lícito y todos los socios deben aportar algo, ya sea dinero, bienes o industria.
+
+=== SECCIÓN ADICIONAL: DERECHO DE FAMILIA ===
+
+TÍTULO V: DEL MATRIMONIO (AMPLIADO)
+
+CAPÍTULO IV: DE LAS DEMANDAS DE NULIDAD DE MATRIMONIO
+
+Artículo 180. El matrimonio que se haya contraído sin el consentimiento libre de los dos esposos, o de uno de ellos, no puede impugnarse sino por los esposos o por aquel de ellos cuyo consentimiento no haya sido libre.
+
+Artículo 181. Cuando haya habido error en la persona, el matrimonio sólo puede impugnarse por el esposo que ha sufrido el error.
+
+Artículo 182. En el caso de los dos artículos precedentes, la demanda de nulidad no será admisible si hubo cohabitación continuada durante seis meses después de que el esposo ha recobrado su plena libertad, o después de descubierto el error.
+
+Artículo 184. Todo matrimonio contraído con infracción de las disposiciones contenidas en los artículos 144, 147, 161, 162 y 163, puede impugnarse por los mismos esposos, por los ascendientes y por todos los que tengan interés, así como por el Ministerio Público.
+
+Artículo 191. Los esposos pueden hacerse recíprocamente, por contrato de matrimonio, todas las donaciones que consideren oportunas, bajo las modificaciones siguientes.
+
+CAPÍTULO V: DE LAS OBLIGACIONES QUE NACEN DEL MATRIMONIO
+
+Artículo 212. Los esposos se deben mutuamente fidelidad, socorro y asistencia.
+
+Artículo 213. El marido debe protección a su mujer, y la mujer obediencia a su marido.
+
+Artículo 214. La mujer está obligada a vivir con su marido, y a seguirle a donde quiera que juzgue a propósito fijar su residencia; el marido está obligado a recibirla, y a suministrarle todo lo necesario para las necesidades de la vida, según sus facultades y su estado.
+
+Artículo 215. La mujer no puede comparecer en juicio sin autorización de su marido, aunque sea comerciante pública, o separada de bienes.
+
+Artículo 216. La autorización del marido no es necesaria cuando la mujer es perseguida por causas criminales o relativas a la policía.
+
+CAPÍTULO VI: DE LOS DERECHOS Y DEBERES RESPECTIVOS DE LOS ESPOSOS
+
+Artículo 229. El divorcio se pronuncia a demanda de uno de los esposos por las causas siguientes: Primera, adulterio. Segunda, exceso, sevicias o injurias graves de un esposo hacia otro. Tercera, condenación de uno de los esposos a pena aflictiva o infamante. Cuarta, abandono voluntario. Quinta, ausencia.
+
+Artículo 230. La mujer podrá demandar el divorcio por causa de adulterio de su marido, cuando éste haya tenido su concubina en la casa común.
+
+Artículo 231. El marido podrá demandar el divorcio por causa de adulterio de su mujer.
+
+TÍTULO VII: DE LA PATERNIDAD Y DE LA FILIACIÓN
+
+CAPÍTULO I: DE LA FILIACIÓN DE LOS HIJOS LEGÍTIMOS O NACIDOS DEL MATRIMONIO
+
+Artículo 312. El hijo concebido durante el matrimonio tiene por padre al marido. Sin embargo, éste podrá desconocer al hijo, si prueba que durante el tiempo transcurrido desde el día trescientos al día ciento ochenta antes del nacimiento, le fue físicamente imposible tener acceso a su mujer, ya por causa de alejamiento, ya por efecto de cualquier otro accidente.
+
+Artículo 313. El marido no podrá, alegando su impotencia natural, desconocer al hijo.
+
+Artículo 314. Tampoco podrá el marido desconocer al hijo alegando el adulterio, a menos que el nacimiento le haya sido ocultado; en cuyo caso se le admitirá a proponer todos los hechos propios para justificar que él no es el padre.
+
+Artículo 315. La legitimidad del hijo nacido trescientos días después de la disolución del matrimonio podrá ser impugnada.
+
+CAPÍTULO II: DE LAS PRUEBAS DE LA FILIACIÓN DE LOS HIJOS LEGÍTIMOS
+
+Artículo 319. La filiación de los hijos legítimos se prueba por el acta de nacimiento inscrita en el registro del estado civil.
+
+Artículo 320. A falta de este título, basta la posesión constante del estado de hijo legítimo.
+
+Artículo 321. La posesión del estado se establece por una reunión suficiente de hechos que indiquen las relaciones de filiación y de parentesco entre un individuo y la familia a que dice pertenecer.
+
+CAPÍTULO III: DE LOS HIJOS NATURALES
+
+Artículo 331. La legitimación de los hijos nacidos fuera del matrimonio se hará por el subsiguiente matrimonio de sus padres, siempre que éstos los hayan reconocido legalmente antes de casarse, o que los reconozcan en el acta de celebración del matrimonio.
+
+Artículo 334. El reconocimiento de un hijo natural se hará por acta auténtica, cuando no se haga en el acta de nacimiento. En el acta de reconocimiento se indicará el día, lugar y hora del nacimiento del hijo reconocido, así como los nombres, apellidos, profesión y domicilio del padre o madre que le reconozca.
+
+Artículo 335. El reconocimiento del padre, sin indicación y sin consentimiento de la madre, sólo produce efecto respecto del padre.
+
+Artículo 336. Puede impugnarse el reconocimiento hecho por el padre o la madre, tanto por parte de éstos como por la del hijo o de cuantos tengan interés.
+
+TÍTULO VIII: DE LA ADOPCIÓN
+
+Artículo 343. La adopción no se permitirá sino a personas de uno u otro sexo mayores de cincuenta años, que en la época de la adopción no tengan hijos ni descendientes legítimos, y que tengan al menos quince años más que los individuos que se proponen adoptar.
+
+Artículo 344. Nadie puede ser adoptado por más de una persona, a no ser por marido y mujer.
+
+Artículo 345. Para adoptar un hijo es preciso haber prestado al adoptado, siendo menor, durante seis años a lo menos, auxilios y cuidados ininterrumpidos, o haberlo prestado durante el mismo tiempo a sus padres, ascendientes o a su cónyuge; o haber salvado la vida a uno o a otro en un combate o exponiéndose a perecer.
+
+Artículo 346. Se puede adoptar el hijo o hija de su mujer o marido; y en este caso basta que el adoptante haya cumplido la edad de cincuenta años.
+
+Artículo 348. El adoptado permanece en su familia natural, y conserva en ella todos sus derechos. Sin embargo, no podrá por efecto de la adopción casarse con el adoptante, ni con su cónyuge, ni con los hijos de éstos.
+
+TÍTULO IX: DE LA AUTORIDAD DEL PADRE Y DE LA MADRE
+
+Artículo 371. El hijo, sea cual fuere su edad, debe honrar y respetar a sus padres.
+
+Artículo 372. Permanece bajo su autoridad hasta la mayor edad o emancipación.
+
+Artículo 373. El padre solo ejerce esta autoridad durante el matrimonio.
+
+Artículo 374. El hijo no puede salir de la casa paterna sin permiso del padre, excepto para alistarse voluntariamente después de cumplir los dieciocho años.
+
+Artículo 375. El padre que tenga motivos muy graves de descontento de la conducta de un hijo, tiene los medios de corrección siguientes. Primera corrección: Si el hijo no ha cumplido dieciséis años, el padre podrá hacerle detener por el tiempo de un mes a lo más; y a este efecto, el presidente del tribunal de primera instancia deberá, a instancia del padre, expedir orden de detención. Segunda corrección: Desde los dieciséis años cumplidos hasta la mayor edad o emancipación, el padre sólo podrá solicitar la detención de su hijo por el tiempo de seis meses a lo más.
+
+TÍTULO X: DE LA MENOR EDAD, DE LA TUTELA Y DE LA EMANCIPACIÓN
+
+CAPÍTULO I: DE LA MENOR EDAD
+
+Artículo 388. El menor es el individuo de uno u otro sexo que no ha cumplido todavía veintiún años de edad.
+
+Artículo 389. La mujer que contrajo matrimonio siendo menor, no queda emancipada sino cuando el matrimonio ha sido disuelto.
+
+CAPÍTULO II: DE LA TUTELA
+
+Artículo 390. El menor debe tener un tutor que lo represente en todos los actos civiles y que cuide de su persona y de sus bienes.
+
+Artículo 391. La tutela es un cargo de orden público del que nadie puede excusarse sino en los casos determinados por la ley.
+
+Artículo 395. El padre es de derecho tutor de sus hijos.
+
+Artículo 396. El marido es tutor de derecho de su mujer menor.
+
+Artículo 397. El hijo no emancipado ni casado, continuará en la tutela de su padre, si la madre ha contraído segundas nupcias.
+
+CAPÍTULO III: DE LA EMANCIPACIÓN
+
+Artículo 476. El menor queda emancipado de pleno derecho por el matrimonio.
+
+Artículo 477. La simple emancipación se hace por declaración del padre, o si éste ha fallecido, de la madre, ante el Juez de Paz del domicilio del menor que haya cumplido dieciocho años.
+
+Artículo 481. El menor emancipado puede hacer todos los actos de simple administración. Se entiende por actos de simple administración, el arrendamiento de casas por tiempo que no exceda de nueve años, y de bienes rústicos por tiempo que no exceda del período que media entre dos labores.
+
+=== SECCIÓN ADICIONAL: DERECHO SUCESORIO ===
+
+TÍTULO I: DE LAS SUCESIONES (AMPLIADO)
+
+CAPÍTULO III: DE LOS DIVERSOS ÓRDENES DE SUCESIONES
+
+SECCIÓN 2A: DE LA REPRESENTACIÓN
+
+Artículo 739. La representación es una ficción legal, cuyo efecto es hacer entrar a los representantes en el lugar, en el grado y en los derechos del representado.
+
+Artículo 740. La representación tiene lugar hasta el infinito en la línea directa descendente. Es admitida en todos los casos, ya sea que los hijos del difunto concurran con los descendientes de un hijo premuerto, ya sea que hallándose muertos todos los hijos del difunto, los descendientes de éstos se encuentren entre sí en grados iguales, o en grados diferentes.
+
+Artículo 741. La representación no es admitida en favor de los ascendientes; el más próximo excluye siempre al más remoto de cada línea.
+
+Artículo 742. En la línea colateral, la representación es admitida en favor de los hijos y descendientes de hermanos o hermanas del difunto, ya sea que concurran con sus tíos o tías, ya sea que, habiendo muerto todos los hermanos y hermanas del difunto, la sucesión se defiera a sus sobrinos nietos en grados iguales o desiguales.
+
+SECCIÓN 3A: DE LAS SUCESIONES DE LOS DESCENDIENTES
+
+Artículo 745. Los hijos o sus descendientes suceden a sus padres, abuelos y demás ascendientes, sin distinción de sexo ni de primogenitura, aun cuando provengan de diferentes matrimonios. Suceden por cabezas cuando todos se hallan en primer grado y son llamados por derecho propio; suceden por estirpes cuando todos o algunos de ellos vienen por representación.
+
+SECCIÓN 4A: DE LAS SUCESIONES DE LOS ASCENDIENTES
+
+Artículo 746. Si el difunto no ha dejado posteridad, su padre y su madre le suceden con exclusión de todos los demás ascendientes, y de todos sus demás parientes colaterales.
+
+Artículo 747. La sucesión se divide entonces por mitad entre el padre y la madre.
+
+Artículo 748. Cuando el padre o la madre premueren al hijo, la parte que a falta de representación les hubiere correspondido en la sucesión, se divide igualmente entre los ascendientes en cada una de las líneas paterna y materna.
+
+SECCIÓN 5A: SUCESIÓN DE LOS COLATERALES
+
+Artículo 753. Cuando el difunto no haya dejado posteridad ni ascendientes, sus hermanos y hermanas y los descendientes de éstos son llamados a la sucesión con exclusión de los demás colaterales.
+
+Artículo 754. Si el difunto no ha dejado hermanos, hermanas, ni descendientes de éstos, la sucesión se dividirá por mitad entre los ascendientes de la línea paterna y los ascendientes de la línea materna.
+
+Artículo 755. Los ascendientes suceden hasta el duodécimo grado inclusive, sin que los más próximos excluyan a los más remotos de la misma línea.
+
+CAPÍTULO V: DE LA ACEPTACIÓN Y DE LA REPUDIACIÓN DE LAS SUCESIONES
+
+Artículo 774. Una sucesión puede aceptarse pura y simplemente, o a beneficio de inventario.
+
+Artículo 775. Nadie está obligado a aceptar una sucesión que se le haya deferido.
+
+Artículo 776. Las sucesiones se adquieren y transmiten independientemente de toda aceptación expresa o tácita, desde el momento de abrirse la sucesión; lo que no impide que el heredero pueda siempre repudiarla, si no se halla en algunos de los casos que le impiden la repudiación.
+
+Artículo 777. El efecto de la aceptación se retrotrae al tiempo en que la sucesión quedó abierta.
+
+Artículo 778. La aceptación puede ser expresa o tácita; la aceptación expresa se hace por instrumento público o privado. La aceptación tácita es la que resulta de un acto que supone necesariamente la intención de aceptar, y que no se tendría derecho de ejecutar sino en calidad de heredero.
+
+TÍTULO II: DE LAS DONACIONES ENTRE VIVOS Y DE LOS TESTAMENTOS
+
+CAPÍTULO I: DISPOSICIONES GENERALES
+
+Artículo 893. Se puede disponer de sus bienes, a título gratuito, por donación entre vivos o por testamento.
+
+Artículo 894. La donación entre vivos es un acto por el cual el donante se desprende actualmente e irrevocablemente de la cosa donada en favor del donatario que la acepta.
+
+Artículo 895. El testamento es un acto por el cual el testador dispone, para el tiempo en que ya no exista, de todo o parte de sus bienes, y que puede revocar.
+
+CAPÍTULO III: DE LA PORCIÓN DE BIENES DISPONIBLE Y DE LA REDUCCIÓN
+
+Artículo 913. Las liberalidades, ya sean hechas por actos entre vivos, ya por testamento, no podrán exceder de la mitad de los bienes del disponente, si a su fallecimiento deja un solo hijo legítimo; de la tercera parte, si deja dos; de la cuarta, si deja tres o mayor número.
+
+Artículo 914. Se entiende por hijos legítimos los descendientes en cualquier grado, representando siempre todos los que se hallasen en un grado más lejano a su ascendiente premuerto.
+
+Artículo 915. A falta de descendientes legítimos, las liberalidades hechas por actos entre vivos o testamentarios, podrán ascender a las tres cuartas partes de los bienes, si el difunto deja ascendientes en ambas líneas; y a la mitad, si no deja ascendientes sino en una línea.
+
+CAPÍTULO V: DE LAS DISPOSICIONES TESTAMENTARIAS
+
+Artículo 967. Toda persona puede disponer por testamento, ya sea bajo el título de institución de heredero, ya bajo el de legado, ya bajo cualquier otra denominación propia para manifestar su voluntad.
+
+Artículo 968. Las disposiciones testamentarias deben ser el efecto de una voluntad seria del testador; no tendrán ningún efecto las que hayan sido determinadas por error, violencia o dolo.
+
+Artículo 969. El testamento es un acto personal que no puede dejarse ni aun en parte a la voluntad de un tercero, ni hacerse por medio de mandatario.
+
+Artículo 970. Un testamento no puede hacerse en el mismo acto por dos o más personas, ya sea en provecho recíproco, ya en provecho de un tercero.
+
+ARTÍCULO 1001. Para hacer testamento ológrafo, es necesario que esté escrito todo él, fechado y firmado de mano del testador: no está sujeto a ninguna otra formalidad.
+
+ARTÍCULO 1003. El testamento por acto público es el que se otorga ante dos notarios con asistencia de dos testigos, o ante un solo notario con asistencia de cuatro testigos.
+
+=== EJEMPLOS ADICIONALES DE APLICACIÓN PRÁCTICA ===
+
+EJEMPLO 6 - DIVORCIO POR ADULTERIO:
+María descubre que su esposo José mantiene una relación extramatrimonial y ha llevado a su concubina a vivir en la casa común. Según el artículo 230 del Código Civil, María puede demandar el divorcio por esta causa específica, ya que el adulterio fue cometido en la casa común.
+
+EJEMPLO 7 - FILIACIÓN Y PATERNIDAD:
+Carmen da a luz un hijo durante su matrimonio con Ricardo. Según el artículo 312, el hijo se presume legítimo y tiene por padre a Ricardo. Sin embargo, si Ricardo estuvo ausente del país desde 300 días hasta 180 días antes del nacimiento, podría desconocer la paternidad.
+
+EJEMPLO 8 - SUCESIÓN INTESTADA:
+Don Ramón fallece sin dejar testamento. Tiene tres hijos legítimos: Ana, Luis y Carlos. Su patrimonio asciende a RD$3,000,000. Según el Código Civil, la herencia se divide en partes iguales entre los tres hijos (RD$1,000,000 cada uno), ya que suceden por cabezas al estar todos en primer grado.
+
+EJEMPLO 9 - TESTAMENTO Y LEGÍTIMA:
+Doña Elena tiene dos hijos y desea hacer testamento. Su patrimonio vale RD$6,000,000. Según el artículo 913, puede disponer libremente de solo un tercio (RD$2,000,000), pues debe reservar dos tercios (RD$4,000,000) como legítima para sus dos hijos.
+
+EJEMPLO 10 - TUTELA DE MENORES:
+Juan, padre viudo, fallece dejando a su hijo menor Pedro de 15 años. La abuela paterna solicita la tutela. El Juez convoca al consejo de familia, que deberá nombrar un tutor y un protutor para velar por los intereses del menor hasta que cumpla 21 años o se emancipe.
+
+EJEMPLO 11 - ADOPCIÓN:
+María, de 52 años, sin hijos, desea adoptar a su sobrino Luis de 12 años, a quien ha cuidado desde que tenía 6 años. Cumple los requisitos del artículo 343: tiene más de 50 años, no tiene descendientes legítimos, tiene más de 15 años de diferencia con Luis, y lo ha asistido durante más de 6 años.
+
+EJEMPLO 12 - EMANCIPACIÓN POR MATRIMONIO:
+Sofía, de 19 años, contrae matrimonio. Automáticamente queda emancipada según el artículo 476, adquiriendo la capacidad para realizar actos de administración de sus bienes, aunque aún no ha cumplido los 21 años de edad.
+
+EJEMPLO 13 - REPRESENTACIÓN SUCESORIA:
+Don Alberto fallece dejando dos hijos: Pedro (vivo) y María (premuerta). María dejó tres hijos (nietos de Alberto). La herencia se divide en dos partes iguales: una para Pedro, y la otra se subdivide en tres partes iguales para los tres nietos, quienes heredan por representación de su madre María.
+
+EJEMPLO 14 - DONACIÓN ENTRE VIVOS:
+El señor González dona a su hijo un apartamento mediante escritura pública ante notario. La donación es irrevocable según el artículo 894. Si luego el señor González tiene otro hijo, la donación podría ser reducida si excede la porción disponible establecida por la ley.
+
+EJEMPLO 15 - BENEFICIO DE INVENTARIO:
+Tras el fallecimiento de su padre, Roberto sospecha que hay más deudas que bienes. Decide aceptar la herencia a beneficio de inventario según el artículo 774, lo que le permite responder de las deudas solo hasta el monto del activo hereditario, protegiendo su patrimonio personal.
+
+=== FIN DEL DOCUMENTO DE ENTRENAMIENTO COMPLETO ===
