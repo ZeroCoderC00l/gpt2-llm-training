@@ -305,7 +305,7 @@ class TrainingConfig:
 ### Step 3: Run Training
 
 ```bash
-python train_llm.py
+python local/llm-training-script.py
 ```
 
 The script will:
